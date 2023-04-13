@@ -6,5 +6,6 @@ virtualenv env_name
 .\env_name\Scripts\activate
 pip install cvzone
 pip install mediapipe
+pip install tensorflow
 
 https://teachablemachine.withgoogle.com/train/image
