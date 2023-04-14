@@ -3,9 +3,13 @@ Easy Hand Sign Detection - American Sign Language ASL - Computer Vision
 
 
 virtualenv env_name
+<br>
 .\env_name\Scripts\activate
+<br>
 pip install cvzone
+<br>
 pip install mediapipe
+<br>
 pip install tensorflow
 
 https://teachablemachine.withgoogle.com/train/image
